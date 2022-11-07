@@ -65,9 +65,6 @@
       </tbody>
     </table>
   </section>
-  <footer>
-
-  </footer>
 </body>
 
 </html>
