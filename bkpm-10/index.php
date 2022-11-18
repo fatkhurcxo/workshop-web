@@ -98,7 +98,7 @@
             <div class="nav-logo container-lg d-flex justify-content-between">
                 <div class="">
                     <img src=" img-assets/Logo POLIJE (Warna) 1.png" alt="">
-                    <a class="navbar-brand container-sm" href="">Informatics Engineering</a>
+                    <a class="navbar-brand container-sm d-none d-sm-inline" href="">Informatics Engineering</a>
                 </div>
                 <div class="">
                     <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -154,7 +154,7 @@
                     <span style="font-style: normal; font-weight: 700; font-size: 150px; line-height: 188px;" id="kampus-angka">4</span>
                 </p> -->
             </div>
-            <div style="height: 400px; background-color: #FF5786; margin-top: -80px;" class="container-md rounded">
+            <div style="height: 400px; background-color: #FF5786; margin-top: -80px;" class="container-md container-lg container-sm rounded">
                 <p style="text-align: center; padding-top: 70px;">
                     <span style="color: white; font-style: normal; font-weight: 400; font-size: 20px; line-height: 25px;">Program Studi Diluar Kampus Utama</span>
                     <br><br>
@@ -167,27 +167,31 @@
                     <span id="apkWeb">Sistem Informasi Data PSDKU Sidoarjo</span>
                 </p>
             </div>
-            <div class="2-card d-flex container-sm mt-3 gap-3">
+            <div class="2-card d-flex container-lg container-md container-sm mt-3 gap-3">
                 <div class="bg-info rounded p-3">
-                    <h4>Kampus Santuy.</h4>
+                    <h4 style="font-style: normal; font-weight: 600; font-size: 24px; line-height: 30px;">Kampus Santuy.</h4>
                     <br>
-                    <p>
+                    <p style="font-style: normal; font-weight: 300; font-size: 20px; line-height: 130%;">
                         Kampus 4 PSDKU Sidoarjo tetap menjadi kampus santuy
                         dikala gempuran kampus merdeka. Kegiatan keseharian kampus hanya perkuliahan seperti biasa serta ditambah dengan mahasiswa-mahasiswa santuy perihal pengerjaan tugas. Apakah benar pantas kampus ini disebut kampus santuy?
                     </p>
                 </div>
                 <div class="bg-info rounded p-3">
-                    <h4>Kampus Istimewa.</h4>
+                    <h4 style="font-style: normal; font-weight: 600; font-size: 24px; line-height: 30px;">Kampus Istimewa.</h4>
                     <br>
-                    <p>
+                    <p style="font-style: normal; font-weight: 300; font-size: 20px; line-height: 130%;">
                         Kampus 4 ini juga dinobatkan menjadi kampus istimewa di wilayah Kabupaten Sidoarjo. Kampus ini mendapat julukan kampus istimewa dikarenakan kampus 4 ini tidak banyak acara. Kampus ini cukup muak dengan banyak kata-kata dari salah seorang yang katanya lulusan S3.
                     </p>
                 </div>
             </div>
-            <div class="d-flex bg-primary mt-5 container-sm justify-content-between">
+            <div class=" d-flex bg-primary mt-5 container-sm justify-content-between">
 
             </div>
         </div>
+    </section>
+
+    <section class="main-content-2">
+
     </section>
 
 
