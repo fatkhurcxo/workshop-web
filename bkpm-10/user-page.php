@@ -113,6 +113,25 @@
         </div>
     </nav>
 
+    <section>
+        <div class="container mt-5">
+            <h3 style="text-align: center;">Selamat Datang di Sistem Informasi Data PSDKU Sidoarjo</h3>
+        </div>
+        <div class="container d-flex justify-content-center">
+            <div class="w-25">
+                <div class="">
+                    <label for="form-username" class="form-label">Username</label>
+                    <input type="text" class="form-control" id="form-username">
+                </div>
+                <div class="mt-2">
+                    <label for="form-username" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="form-username">
+                </div>
+                <button type="button"></button>
+            </div>
+        </div>
+    </section>
+
 
 
     <!-- JS -->
