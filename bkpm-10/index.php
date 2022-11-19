@@ -165,7 +165,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" href="">Mahasiswa</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="">Data Seluruh Mahasiswa</a></li>
+                            <li><a class="dropdown-item" href="datamhs.php">Data Seluruh Mahasiswa</a></li>
                             <li><a class="dropdown-item" href="">Data Mahasiswa Berprestasi</a></li>
                             <li><a class="dropdown-item" href="">Data Organisasi Mahasiswa</a></li>
                         </ul>
@@ -182,7 +182,7 @@
                 </ul>
             </div>
             <div style="margin-right: 5%;margin-right: 5%;" class="button-akun d-none d-lg-block">
-                <a class="nav-link container-sm" href=""><img src="img-assets/user 1.png" alt=""></a>
+                <a class="nav-link container-sm" href="user-page.php"><img src="img-assets/user 1.png" alt=""></a>
             </div>
         </div>
     </nav>
